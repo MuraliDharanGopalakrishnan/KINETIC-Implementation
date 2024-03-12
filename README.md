@@ -5,7 +5,7 @@ As a Part of Kinetic Implementation Team, Upgraded Epicor ERP From E10 to KNETIC
 **Screen UI Fixes :**
 
 
-Since Epicor Introduced New UI Fields and DB Fields , this caused Overlap in the Exisiting Customization.
+Since Epicor Introduced New UI Fields in Kinetic and DB Fields , this caused Overlap in the Exisiting Customization.
 
 ![image](https://github.com/MuraliDharanGopalakrishnan/KINETIC-Implementation/assets/102019076/5cf55e41-6f1d-41f3-86e0-5a9eefe2ec57)
 

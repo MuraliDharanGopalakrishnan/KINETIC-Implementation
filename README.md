@@ -18,6 +18,7 @@ High-Level Design:
 
 ![image](https://github.com/MuraliDharanGopalakrishnan/KINETIC-Implementation/assets/102019076/3e1295c5-5612-4cdb-ba06-e108f32fda16)
 
+Levearged KINETIC Functions for Automation:
 
 
 

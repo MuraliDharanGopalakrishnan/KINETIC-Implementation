@@ -28,10 +28,11 @@ Automated the  RMA Transaction to Scrap the part using DMR Dispositions and upda
 
 
 
-ShipHold:
+**ShipHold:**
+
+purpose of these ship holds is to prevent a specific Part number, Lot number, or Serial Number/range of serial numbers from being shipped to one or more particular country(s). 
+A ship hold may be implemented at any time, although an upcoming hold is typically known days or weeks in advance. 
 
 
-
-Trasnsfer of Ship Comments From Original ICPO 
 
 

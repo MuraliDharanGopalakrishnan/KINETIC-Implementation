@@ -33,6 +33,7 @@ Automated the  RMA Transaction to Scrap the part using DMR Dispositions and upda
 purpose of these ship holds is to prevent a specific Part number, Lot number, or Serial Number/range of serial numbers from being shipped to one or more particular country(s). 
 A ship hold may be implemented at any time, although an upcoming hold is typically known days or weeks in advance. 
 
+![image](https://github.com/MuraliDharanGopalakrishnan/KINETIC-Implementation/assets/102019076/86e4924d-dca5-4340-a997-207705d9b077)
 
 
 

@@ -9,6 +9,10 @@ Since Epicor Introduced New UI Fields and DB Fields , this caused Overlap in the
 
 ![image](https://github.com/MuraliDharanGopalakrishnan/KINETIC-Implementation/assets/102019076/5cf55e41-6f1d-41f3-86e0-5a9eefe2ec57)
 
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
 
 
 **RMA Dispositon Automation:**

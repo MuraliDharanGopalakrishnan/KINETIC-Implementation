@@ -14,6 +14,10 @@ Since Epicor Introduced New UI Fields in Kinetic and DB Fields , this caused Ove
 
 Automated the  RMA Transaction to Scrap the part using DMR Dispositions and update the SerialNumber status to be scrapped.
 
+1.Created  a New RMA Disposition.
+2.New DMR Actn.
+3.Updated the SerialNumber Transaction.
+
 **High-Level Design:**
 
 ![image](https://github.com/MuraliDharanGopalakrishnan/KINETIC-Implementation/assets/102019076/ac258b57-40a8-4231-a240-82f3d953ebb3)
@@ -36,7 +40,7 @@ A ship hold may be implemented at any time, although an upcoming hold is typical
 ![image](https://github.com/MuraliDharanGopalakrishnan/KINETIC-Implementation/assets/102019076/86e4924d-dca5-4340-a997-207705d9b077)
 
 
-**Lookup Table1;**
+**Lookup Table:**
 
 used Lookup Table to store the Information of the parts,countrynum that needs to be blocked during the shipment.
 
@@ -44,6 +48,12 @@ used Lookup Table to store the Information of the parts,countrynum that needs to
 
 
 **MethoDirective:**:
+1.Used Conditional Widgets
+2.Variables
+3.Linq queries
+4.Exception Message 
+5.DropShip
+
 ![image](https://github.com/MuraliDharanGopalakrishnan/KINETIC-Implementation/assets/102019076/7aa83346-c462-4fb7-bcb1-37a7c623a0e6)
 
 

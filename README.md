@@ -14,9 +14,9 @@ Since Epicor Introduced New UI Fields in Kinetic and DB Fields , this caused Ove
 
 Automated the  RMA Transaction to Scrap the part using DMR Dispositions and update the SerialNumber status to be scrapped.
 
-1.Created  a New RMA Disposition.
-2.New DMR Actn.
-3.Updated the SerialNumber Transaction.
+* Created  a New RMA Disposition.
+* New DMR Actn.
+* Updated the SerialNumber Transaction.
 
 **High-Level Design:**
 
@@ -48,12 +48,12 @@ used Lookup Table to store the Information of the parts,countrynum that needs to
 
 
 **MethoDirective:**:
-1.Used Conditional Widgets
-2.Variables
-3.Linq queries
-4.Exception Message 
-5.DropShip
-
+* Used Conditional Widgets
+* Variables
+* Linq queries
+* Exception Message
+* DropShip
+* 
 ![image](https://github.com/MuraliDharanGopalakrishnan/KINETIC-Implementation/assets/102019076/7aa83346-c462-4fb7-bcb1-37a7c623a0e6)
 
 

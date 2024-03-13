@@ -36,7 +36,15 @@ A ship hold may be implemented at any time, although an upcoming hold is typical
 ![image](https://github.com/MuraliDharanGopalakrishnan/KINETIC-Implementation/assets/102019076/86e4924d-dca5-4340-a997-207705d9b077)
 
 
+**Lookup Table1;**
 
+used Lookup Table to store the Information of the parts,countrynum that needs to be blocked during the shipment.
+
+![image](https://github.com/MuraliDharanGopalakrishnan/KINETIC-Implementation/assets/102019076/5a8c2d79-5249-41c8-8c6f-24ea7ab9d89f)
+
+
+**MethoDirective:**:
+![image](https://github.com/MuraliDharanGopalakrishnan/KINETIC-Implementation/assets/102019076/7aa83346-c462-4fb7-bcb1-37a7c623a0e6)
 
 
 
